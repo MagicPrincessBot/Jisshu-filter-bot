@@ -44,9 +44,9 @@ INDEX_REQ_CHANNEL = "-1002381849087"
 #---------------------------------------------------------------
 IS_VERIFY = is_enabled('IS_VERIFY', True)
 #---------------------------------------------------------------
-TUTORIAL = environ.get("TUTORIAL", "https://t.me/htdmtbb/15")
-TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/htdmtbb/15")
-TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/htdmtbb/15")
+TUTORIAL = environ.get("TUTORIAL", "https://t.me/htdmtbb/19")
+TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/htdmtbb/19")
+TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/htdmtbb/19")
 VERIFY_IMG = environ.get("VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c3ca4.jpg")
 SHORTENER_API = environ.get("SHORTENER_API", "df75ecafe2e8dc395e369fbc323d1a860965cf38")
 SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", 'linkshortify.com')
@@ -75,7 +75,7 @@ FORCESUB_IMG = environ.get('FORCESUB_IMG', 'https://i.ibb.co/ZNC1Hnb/ad3f2c88a8f
 REFER_PICS = (environ.get("REFER_PICS", "https://envs.sh/PSI.jpg")).split() 
 PAYPICS = (environ.get('PAYPICS', 'https://i.ibb.co/TRB5QVj/Screenshot-20241014-134039.jpg')).split()
 SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://t3.ftcdn.net/jpg/02/96/32/68/360_F_296326887_KotJis18OWUFUCymqYTlAmn4kJRz9fnK.jpg'))
-REACTIONS = ["👀", "😱", "🔥", "😍", "🎉", "🥰", "😇", "⚡"]
+REACTIONS = ["👀", "🤩", "🔥", "😍", "🎉", "🥰", "😇", "⚡", "🥳", "❤️‍🔥"]
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 #---------------------------------------------------------------
